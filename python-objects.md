@@ -1,5 +1,7 @@
 ---
 title: Python Objects
+description: Explaining the core foundation of
+every python object.
 
 ---
 
